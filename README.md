@@ -1,16 +1,35 @@
 ## Hi there 👋
 
-<!--
-**gib-corp/gib-corp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a web developer based in Belgium. I focus mainly on the **frontend**, with a strong interest in **design**, **new technologies**, and **AI**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 What I like
+- Building clean and user-friendly interfaces
+- Exploring modern tools and frameworks
+- Creating things with **React**, **Tailwind**, **Figma**
+
+---
+
+## 🛠 Tech skills
+**Languages & frameworks:**
+- HTML, CSS, Tailwind
+- JavaScript, React.js
+- PHP, Laravel, Node.js, Express
+
+**Tools:**
+- Git, Terminal
+- Figma, Photoshop, Illustrator
+
+---
+
+## 🧪 Projects
+- **Meibo**: collaborative task manager (Laravel + React)
+- **CLI Game**: Pokémon-inspired terminal game (JavaScript)
+- **Chat App**: real-time messaging system with Node.js and MySQL
+
+---
+
+## 📫 Contact
+- 📧 j.erghioui@gmail.com
