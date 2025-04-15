@@ -7,7 +7,5 @@
 
 **Tools:**
 - Git, Terminal
+- VSCode, PhpStorm
 - Figma, Photoshop, Illustrator
-
-## 📫 Contact
-- 📧 j.erghioui@gmail.com
