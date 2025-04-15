@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## What I like
+**Things I like to do:**
 - Building clean and user-friendly interfaces
 - Exploring modern tools and frameworks
 - Creating things with **React**, **Tailwind**, **Figma**
